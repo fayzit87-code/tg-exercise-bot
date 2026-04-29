@@ -83,7 +83,7 @@ BODY_PARTS = {
         ]},
     "feet": {"emoji": "🦶", "name": "Стопы / Голеностоп",
         "exercises": [
-            {"title": "Упражнения при плоскостопии", "desc": "Укрепление свода стопы", "video": "https://disk.yandex.ru/i/ЗАМЕНИ"},
+            {"title": "Упражнения при плоскостопии", "desc": "Укрепление свода стопы", "video": "https://disk.yandex.ru/i/3zDoLDpy5ZKwlw"},
             {"title": "Гимнастика при пяточной шпоре", "desc": "Растяжка подошвенной фасции", "video": "https://disk.yandex.ru/i/ЗАМЕНИ"},
         ],
         "selfhelp": [
