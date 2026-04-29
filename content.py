@@ -1,7 +1,7 @@
 BODY_PARTS = {
     "head": {"emoji": "🧠", "name": "Голова",
         "exercises": [
-            {"title": "Снятие головной боли", "desc": "Упражнения для расслабления мышц головы и шеи", "video": "https://disk.yandex.ru/i/ЗАМЕНИ"},
+            {"title": "Снятие головной боли", "desc": "Упражнения для расслабления мышц головы и шеи", "video": "https://disk.yandex.ru/i/WF2alaWR_Uu2pw"},
             {"title": "Гимнастика для глаз", "desc": "Снимает напряжение при работе за экраном", "video": "https://disk.yandex.ru/i/ЗАМЕНИ"},
         ],
         "selfhelp": [
