@@ -68,7 +68,7 @@ BODY_PARTS = {
         ]},
     "knees": {"emoji": "🦵", "name": "Колени",
         "exercises": [
-            {"title": "Упражнения при боли в колене", "desc": "Укрепление без нагрузки на сустав", "video": "https://disk.yandex.ru/i/ЗАМЕНИ"},
+            {"title": "Упражнения при боли в колене", "desc": "Укрепление без нагрузки на сустав", "video": "https://disk.yandex.ru/i/3zDoLDpy5ZKwlw"},
             {"title": "Реабилитация после травмы колена", "desc": "Постепенное восстановление", "video": "https://disk.yandex.ru/i/ЗАМЕНИ"},
         ],
         "selfhelp": [
